@@ -211,19 +211,32 @@ class DataProcessor:
             # Sadece kullandığınız feature'ları seç
             selected_features = features_df[self.config.FEATURES_LIST].copy()
             # Tekrar eden satır kaldırıldı
-            print(selected_features)
+            print("SELECTED FEATURE SHAPE")
+            print(selected_features.shape)
+            print("FEATURES from config:", self.config.FEATURES)
+            print("Actual features in data:", selected_features.shape[1])
 
             # Son satırı al (en güncel veri)
             latest_features = selected_features.iloc[-self.config.LOOK_BACK:].values
+            print("LATEST FEATURES SHAPE")
             print(latest_features.shape)
 
             # Reshape et
             X = latest_features.reshape(1, self.config.LOOK_BACK, self.config.FEATURES)
 
+            print("X SHAPE")
+            print(X.shape)
+
             # Scale et
             X_2d = X.reshape(-1, self.config.FEATURES)
+            print("X 2D")
+            print(X_2d.shape)
             X_scaled_2d = self.scaler_X.transform(X_2d)
+            print("X SCALED 2D")
+            print(X_scaled_2d.shape)
             X_scaled = X_scaled_2d.reshape(X.shape)
+            print("X SCALED")
+            print(X_scaled.shape)
 
             return X_scaled
 

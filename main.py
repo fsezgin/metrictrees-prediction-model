@@ -1,8 +1,6 @@
 import time
 import logging
 from datetime import datetime, timezone
-import asyncio
-from threading import Thread
 import traceback
 import warnings
 
@@ -27,7 +25,7 @@ class TradingBot:
 
         # Bileşenleri başlat
         self.api_client = APIClient()
-        self.sliding_window = SlidingWindow(window_size=60)
+        self.sliding_window = SlidingWindow(window_size=180)
         self.data_processor = DataProcessor()
         self.ensemble_predictor = EnsemblePredictor()
         self.signal_generator = SignalGenerator()
@@ -53,18 +51,19 @@ class TradingBot:
         self.logger.info("Trading Bot durduruluyor...")
 
     def _initialize_data(self):
-        """İlk 60 dakikalık veriyi yükle"""
+        """İlk 180 dakikalık veriyi yükle"""
         self.logger.info("İlk veri seti yükleniyor...")
 
         try:
-            # Son 60 dakikalık veriyi çek
-            initial_data = self.api_client.get_historical_data(minutes=60)
+            # Son 180 dakikalık veriyi çek
+            initial_data = self.api_client.get_historical_data(minutes=180)
 
             # Sliding window'u doldur
             for _, row in initial_data.iterrows():
                 self.sliding_window.add_data(row.to_dict())
 
             self.logger.info(f"İlk veri seti yüklendi: {len(initial_data)} dakika")
+            self.logger.info(f"İlk veri setinin türü: {type(initial_data)}")
 
         except Exception as e:
             self.logger.error(f"İlk veri yükleme hatası: {e}")
@@ -98,20 +97,22 @@ class TradingBot:
             print("=== ADIM 1: Yeni veri çekiliyor ===")
             # 1. Yeni veriyi çek
             new_data = self.api_client.get_latest_data()
-
             if new_data is None:
                 self.logger.warning("Yeni veri alınamadı")
                 return
 
             print("=== ADIM 2: Sliding window güncelleniyor ===")
             # 2. Sliding window'u güncelle
+
             self.sliding_window.add_data(new_data)
 
+            print(self.sliding_window.data.tail())
+
             print("=== ADIM 3: Window data alınıyor ===")
-            # 3. 60 dakikalık pencereyi al
+            # 3. 180 dakikalık pencereyi al
             window_data = self.sliding_window.get_window()
 
-            if len(window_data) < 60:
+            if len(window_data) < 180:
                 self.logger.warning(f"Yetersiz veri: {len(window_data)} dakika")
                 return
 
@@ -120,14 +121,14 @@ class TradingBot:
             try:
                 features_df = self.data_processor.calculate_features(window_data)
                 print("Feature hesaplama başarılı")
+                print("***********FEATURESDF***************")
+                print(features_df.shape)
+                print(features_df.tail())
+                print("**************************")
             except Exception as e:
                 print(f"FEATURE HESAPLAMA HATASI: {e}")
                 traceback.print_exc()
                 raise
-
-            print("***********FEATURESDF***************")
-            print(features_df)
-            print("**************************")
 
             print("=== ADIM 5: Market analizi yapılıyor ===")
             # 5. Piyasa durumunu analiz et

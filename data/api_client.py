@@ -11,7 +11,7 @@ class APIClient:
         self.logger = logging.getLogger('api_client')
         self.base_url = self.config.API_BASE_URL
 
-    def get_historical_data(self, minutes=120):
+    def get_historical_data(self, minutes=180):
         """Geçmiş veriyi çek"""
         try:
             end_time = datetime.now(timezone.utc)
@@ -61,8 +61,6 @@ class APIClient:
 
             if data and len(data) > 0:
                 latest = data["data"][-1]
-                print(latest['time'])
-                print(type(latest['time']))
                 df = pd.DataFrame([latest])
 
                 if 'time' in df.columns:
@@ -80,13 +78,14 @@ class APIClient:
         """Tahmin ve sinyali API'ye gönder"""
         try:
             data = {
-                'predictedClose': predicted_price,
-                'predictionMinute': datetime.now(timezone.utc).isoformat(),
-                'strategyType': int(strategy_type),
-                'signal': signal  # 'buy', 'sell', 'hold'
+                'tokenId': 2,
+                'predictedPrice': predicted_price,
+                'timestamp': int(datetime.now(timezone.utc).timestamp()),
+                'stateId': int(strategy_type),
+                'signalId': 1 if signal == 'buy' else 2 if signal == 'hold' else 3 # 'buy', 'sell', 'hold'
             }
-
-            response = requests.post(f"{self.base_url}/Prices/send", json=data)
+            print(data)
+            response = requests.post(f"{self.base_url}/ModelPredictions/add", json=data)
             response.raise_for_status()
 
             self.logger.info(f"Tahmin gönderildi: {data}")

@@ -1,6 +1,3 @@
-import os
-
-
 class Config:
     # API Ayarları
     API_BASE_URL = "https://api.metrictrees.yusuf-erdem.com/api/v1"
@@ -10,7 +7,7 @@ class Config:
     # Model Ayarları
     LOOK_BACK = 60
     STEP_AHEAD = 15
-    FEATURES = 21  # Kullandığımız feature sayısı
+    FEATURES = 20
 
     # Model Dosya Yolları
     MODEL_PATHS = {
@@ -22,8 +19,8 @@ class Config:
     }
 
     # Scaler Dosya Yolları
-    SCALER_X_PATH = 'data/scalers/scaler_X.pkl'
-    SCALER_Y_PATH = 'data/scalers/scaler_y.pkl'
+    SCALER_X_PATH = r'C:\Users\lunaf\Desktop\Projects\MetricTrees-AI\MetricTrees-Prediction-Model\data\scalers\scaler_X.pkl'
+    SCALER_Y_PATH = r'C:\Users\lunaf\Desktop\Projects\MetricTrees-AI\MetricTrees-Prediction-Model\data\scalers\scaler_y.pkl'
 
     # Feature Listesi (kullandığınız feature'lar)
     FEATURES_LIST = [

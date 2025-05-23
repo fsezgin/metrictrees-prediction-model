@@ -10,7 +10,6 @@ class TradingParams:
         },
         2: {  # Sideways Piyasa
             'attention_gru': 0.60,
-            'stacked_lstm': 0.40,
             'lstm': 0.0,
             'cnn_lstm': 0.0,
             'transformer_lstm': 0.0

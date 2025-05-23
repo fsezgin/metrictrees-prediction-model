@@ -334,3 +334,529 @@ Name: time, dtype: int64', at position 59
 2025-05-23 07:14:39,051 - trading - INFO - Trading Bot baþlatýlýyor...
 2025-05-23 07:14:39,051 - trading - INFO - Ýlk veri seti yükleniyor...
 2025-05-23 07:14:40,125 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 11:18:13,936 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 11:18:13,936 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 11:18:14,480 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 11:21:28,174 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 11:21:34,843 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 11:21:34,843 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 11:21:35,304 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 11:28:41,716 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 11:28:48,286 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 11:28:48,286 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 11:28:48,806 - trading - INFO - Ýlk veri seti yüklendi: 120 dakika
+2025-05-23 11:43:00,775 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 11:43:07,620 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 11:43:07,620 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 11:43:08,265 - trading - INFO - Ýlk veri seti yüklendi: 120 dakika
+2025-05-23 11:43:45,621 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 11:43:52,481 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 11:43:52,481 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 11:43:53,116 - trading - INFO - Ýlk veri seti yüklendi: 120 dakika
+2025-05-23 11:43:53,116 - trading - INFO - Ýlk veri setinin türü: <class 'pandas.core.frame.DataFrame'>
+2025-05-23 11:43:59,611 - trading - ERROR - Dakikalýk iþlem hatasý: '<' not supported between instances of 'Timestamp' and 'int'
+2025-05-23 11:45:00,466 - trading - ERROR - Dakikalýk iþlem hatasý: '<' not supported between instances of 'Timestamp' and 'int'
+2025-05-23 11:46:00,323 - trading - ERROR - Dakikalýk iþlem hatasý: '<' not supported between instances of 'Timestamp' and 'int'
+2025-05-23 11:47:01,287 - trading - ERROR - Dakikalýk iþlem hatasý: '<' not supported between instances of 'Timestamp' and 'int'
+2025-05-23 11:48:00,165 - trading - ERROR - Dakikalýk iþlem hatasý: '<' not supported between instances of 'Timestamp' and 'int'
+2025-05-23 11:49:00,283 - trading - ERROR - Dakikalýk iþlem hatasý: '<' not supported between instances of 'Timestamp' and 'int'
+2025-05-23 11:50:00,105 - trading - ERROR - Dakikalýk iþlem hatasý: '<' not supported between instances of 'Timestamp' and 'int'
+2025-05-23 11:50:59,958 - trading - ERROR - Dakikalýk iþlem hatasý: '<' not supported between instances of 'Timestamp' and 'int'
+2025-05-23 11:51:59,781 - trading - ERROR - Dakikalýk iþlem hatasý: '<' not supported between instances of 'Timestamp' and 'int'
+2025-05-23 11:52:46,620 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 11:52:53,850 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 11:52:53,850 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 11:52:54,465 - trading - INFO - Ýlk veri seti yüklendi: 120 dakika
+2025-05-23 11:52:54,465 - trading - INFO - Ýlk veri setinin türü: <class 'pandas.core.frame.DataFrame'>
+2025-05-23 11:52:59,960 - trading - ERROR - Dakikalýk iþlem hatasý: '<' not supported between instances of 'Timestamp' and 'int'
+2025-05-23 11:53:59,786 - trading - ERROR - Dakikalýk iþlem hatasý: '<' not supported between instances of 'Timestamp' and 'int'
+2025-05-23 11:54:59,674 - trading - ERROR - Dakikalýk iþlem hatasý: '<' not supported between instances of 'Timestamp' and 'int'
+2025-05-23 11:56:00,423 - trading - ERROR - Dakikalýk iþlem hatasý: '<' not supported between instances of 'Timestamp' and 'int'
+2025-05-23 11:56:56,852 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 11:57:03,344 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 11:57:03,344 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 11:57:04,029 - trading - INFO - Ýlk veri seti yüklendi: 120 dakika
+2025-05-23 11:57:04,029 - trading - INFO - Ýlk veri setinin türü: <class 'pandas.core.frame.DataFrame'>
+2025-05-23 12:00:10,122 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 12:00:16,557 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 12:00:16,557 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 12:00:17,247 - trading - INFO - Ýlk veri seti yüklendi: 120 dakika
+2025-05-23 12:00:17,247 - trading - INFO - Ýlk veri setinin türü: <class 'pandas.core.frame.DataFrame'>
+2025-05-23 12:02:31,079 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 12:02:37,859 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 12:02:37,859 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 12:02:38,549 - trading - INFO - Ýlk veri seti yüklendi: 120 dakika
+2025-05-23 12:02:38,549 - trading - INFO - Ýlk veri setinin türü: <class 'pandas.core.frame.DataFrame'>
+2025-05-23 12:07:47,745 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 12:07:56,154 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 12:07:56,154 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 12:07:56,925 - trading - INFO - Ýlk veri seti yüklendi: 180 dakika
+2025-05-23 12:07:56,925 - trading - INFO - Ýlk veri setinin türü: <class 'pandas.core.frame.DataFrame'>
+2025-05-23 12:48:18,609 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 12:50:09,369 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 12:50:09,369 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 12:50:10,126 - trading - INFO - Ýlk veri seti yüklendi: 180 dakika
+2025-05-23 12:50:10,126 - trading - INFO - Ýlk veri setinin türü: <class 'pandas.core.frame.DataFrame'>
+2025-05-23 12:59:16,915 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 12:59:23,466 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 12:59:23,482 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 12:59:24,215 - trading - INFO - Ýlk veri seti yüklendi: 180 dakika
+2025-05-23 12:59:24,215 - trading - INFO - Ýlk veri setinin türü: <class 'pandas.core.frame.DataFrame'>
+2025-05-23 13:01:29,180 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 13:01:35,507 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 13:01:35,507 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 13:01:36,272 - trading - INFO - Ýlk veri seti yüklendi: 180 dakika
+2025-05-23 13:01:36,272 - trading - INFO - Ýlk veri setinin türü: <class 'pandas.core.frame.DataFrame'>
+2025-05-23 13:02:32,518 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 13:02:40,247 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 13:02:40,247 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 13:02:40,996 - trading - INFO - Ýlk veri seti yüklendi: 180 dakika
+2025-05-23 13:02:40,996 - trading - INFO - Ýlk veri setinin türü: <class 'pandas.core.frame.DataFrame'>
+2025-05-23 13:03:06,444 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:03:06.444939
+            Mevcut Fiyat: 2.4488
+            Tahmin Edilen Fiyat: 2.6121
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:05:02,474 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:05:02.474034
+            Mevcut Fiyat: 2.4481
+            Tahmin Edilen Fiyat: 2.6120
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:06:00,136 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:06:00.136491
+            Mevcut Fiyat: 2.4481
+            Tahmin Edilen Fiyat: 2.6120
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:07:00,842 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:07:00.842390
+            Mevcut Fiyat: 2.4482
+            Tahmin Edilen Fiyat: 2.6121
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:07:14,151 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 13:11:53,250 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 13:11:53,250 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 13:11:54,096 - trading - INFO - Ýlk veri seti yüklendi: 179 dakika
+2025-05-23 13:11:54,096 - trading - INFO - Ýlk veri setinin türü: <class 'pandas.core.frame.DataFrame'>
+2025-05-23 13:11:59,563 - trading - WARNING - Yetersiz veri: 179 dakika
+2025-05-23 13:22:08,166 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 13:22:20,215 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 13:22:20,215 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 13:22:20,978 - trading - INFO - Ýlk veri seti yüklendi: 179 dakika
+2025-05-23 13:22:20,978 - trading - INFO - Ýlk veri setinin türü: <class 'pandas.core.frame.DataFrame'>
+2025-05-23 13:22:59,630 - trading - WARNING - Yetersiz veri: 179 dakika
+2025-05-23 13:26:31,992 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 13:26:40,004 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 13:26:40,004 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 13:26:40,754 - trading - INFO - Ýlk veri seti yüklendi: 179 dakika
+2025-05-23 13:26:40,754 - trading - INFO - Ýlk veri setinin türü: <class 'pandas.core.frame.DataFrame'>
+2025-05-23 13:27:04,863 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:27:04.863321
+            Mevcut Fiyat: 2.4397
+            Tahmin Edilen Fiyat: 2.6113
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:28:21,332 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:28:21.332810
+            Mevcut Fiyat: 2.4404
+            Tahmin Edilen Fiyat: 2.6114
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:28:24,510 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 13:28:33,887 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 13:28:33,887 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 13:28:34,693 - trading - INFO - Ýlk veri seti yüklendi: 179 dakika
+2025-05-23 13:28:34,698 - trading - INFO - Ýlk veri setinin türü: <class 'pandas.core.frame.DataFrame'>
+2025-05-23 13:28:41,922 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 13:28:48,691 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 13:28:48,691 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 13:28:49,466 - trading - INFO - Ýlk veri seti yüklendi: 179 dakika
+2025-05-23 13:28:49,466 - trading - INFO - Ýlk veri setinin türü: <class 'pandas.core.frame.DataFrame'>
+2025-05-23 13:28:59,985 - trading - WARNING - Yetersiz veri: 179 dakika
+2025-05-23 13:30:04,849 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:30:04.849618
+            Mevcut Fiyat: 2.4411
+            Tahmin Edilen Fiyat: 2.6108
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:31:24,325 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:31:24.325658
+            Mevcut Fiyat: 2.4423
+            Tahmin Edilen Fiyat: 2.6110
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:31:59,848 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:31:59.848144
+            Mevcut Fiyat: 2.4423
+            Tahmin Edilen Fiyat: 2.6110
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:33:00,394 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:33:00.394784
+            Mevcut Fiyat: 2.4419
+            Tahmin Edilen Fiyat: 2.6112
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:34:00,027 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:34:00.027247
+            Mevcut Fiyat: 2.4432
+            Tahmin Edilen Fiyat: 2.6107
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:35:00,637 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:35:00.637669
+            Mevcut Fiyat: 2.4443
+            Tahmin Edilen Fiyat: 2.6108
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:36:00,216 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:36:00.216338
+            Mevcut Fiyat: 2.4443
+            Tahmin Edilen Fiyat: 2.6108
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:37:00,784 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:37:00.784861
+            Mevcut Fiyat: 2.4441
+            Tahmin Edilen Fiyat: 2.6112
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:38:00,405 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:38:00.405171
+            Mevcut Fiyat: 2.4441
+            Tahmin Edilen Fiyat: 2.6112
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:38:59,990 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:38:59.990865
+            Mevcut Fiyat: 2.4405
+            Tahmin Edilen Fiyat: 2.6113
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: buy
+            
+2025-05-23 13:40:00,660 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:40:00.660203
+            Mevcut Fiyat: 2.4370
+            Tahmin Edilen Fiyat: 2.6117
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: buy
+            
+2025-05-23 13:41:00,287 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:41:00.287586
+            Mevcut Fiyat: 2.4370
+            Tahmin Edilen Fiyat: 2.6117
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: buy
+            
+2025-05-23 13:42:00,149 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:42:00.149984
+            Mevcut Fiyat: 2.4389
+            Tahmin Edilen Fiyat: 2.6117
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 13:42:50,596 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 13:43:04,159 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 13:43:04,159 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 13:43:04,953 - trading - INFO - Ýlk veri seti yüklendi: 179 dakika
+2025-05-23 13:43:04,958 - trading - INFO - Ýlk veri setinin türü: <class 'pandas.core.frame.DataFrame'>
+2025-05-23 13:43:59,680 - trading - WARNING - Yetersiz veri: 179 dakika
+2025-05-23 13:45:05,381 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:45:05.381505
+            Mevcut Fiyat: 2.4407
+            Tahmin Edilen Fiyat: 2.6113
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: buy
+            
+2025-05-23 13:45:59,915 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:45:59.915273
+            Mevcut Fiyat: 2.4407
+            Tahmin Edilen Fiyat: 2.6113
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: buy
+            
+2025-05-23 13:47:00,439 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:47:00.424082
+            Mevcut Fiyat: 2.4397
+            Tahmin Edilen Fiyat: 2.6115
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: buy
+            
+2025-05-23 13:47:59,995 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:47:59.995741
+            Mevcut Fiyat: 2.4389
+            Tahmin Edilen Fiyat: 2.6118
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 13:49:00,526 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:49:00.526883
+            Mevcut Fiyat: 2.4400
+            Tahmin Edilen Fiyat: 2.6117
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 13:50:00,047 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:50:00.047912
+            Mevcut Fiyat: 2.4429
+            Tahmin Edilen Fiyat: 2.6117
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 13:51:00,556 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:51:00.556231
+            Mevcut Fiyat: 2.4414
+            Tahmin Edilen Fiyat: 2.6120
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 13:52:00,081 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:52:00.081484
+            Mevcut Fiyat: 2.4437
+            Tahmin Edilen Fiyat: 2.6120
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 13:53:00,586 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:53:00.586377
+            Mevcut Fiyat: 2.4430
+            Tahmin Edilen Fiyat: 2.6120
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 13:54:00,184 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:54:00.184638
+            Mevcut Fiyat: 2.4430
+            Tahmin Edilen Fiyat: 2.6120
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 13:56:00,508 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:56:00.508600
+            Mevcut Fiyat: 2.4424
+            Tahmin Edilen Fiyat: 2.6119
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:57:00,296 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:57:00.296603
+            Mevcut Fiyat: 2.4424
+            Tahmin Edilen Fiyat: 2.6114
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 13:58:00,075 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:58:00.075915
+            Mevcut Fiyat: 2.4415
+            Tahmin Edilen Fiyat: 2.6109
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 13:58:59,871 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 13:58:59.871756
+            Mevcut Fiyat: 2.4424
+            Tahmin Edilen Fiyat: 2.6108
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:00:00,684 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:00:00.684880
+            Mevcut Fiyat: 2.4421
+            Tahmin Edilen Fiyat: 2.6109
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:01:00,543 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:01:00.543805
+            Mevcut Fiyat: 2.4421
+            Tahmin Edilen Fiyat: 2.6109
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:02:00,368 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:02:00.367462
+            Mevcut Fiyat: 2.4415
+            Tahmin Edilen Fiyat: 2.6110
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:03:00,132 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:03:00.132838
+            Mevcut Fiyat: 2.4432
+            Tahmin Edilen Fiyat: 2.6109
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:03:59,932 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:03:59.932557
+            Mevcut Fiyat: 2.4411
+            Tahmin Edilen Fiyat: 2.6114
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:05:00,885 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:05:00.885246
+            Mevcut Fiyat: 2.4419
+            Tahmin Edilen Fiyat: 2.6115
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:06:00,721 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:06:00.721605
+            Mevcut Fiyat: 2.4417
+            Tahmin Edilen Fiyat: 2.6113
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:07:00,519 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:07:00.519864
+            Mevcut Fiyat: 2.4417
+            Tahmin Edilen Fiyat: 2.6113
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:08:00,334 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:08:00.334732
+            Mevcut Fiyat: 2.4391
+            Tahmin Edilen Fiyat: 2.6114
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 14:08:59,930 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:08:59.930772
+            Mevcut Fiyat: 2.4382
+            Tahmin Edilen Fiyat: 2.6117
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 14:10:00,517 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:10:00.517567
+            Mevcut Fiyat: 2.4359
+            Tahmin Edilen Fiyat: 2.6118
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 14:11:00,067 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:11:00.067569
+            Mevcut Fiyat: 2.4353
+            Tahmin Edilen Fiyat: 2.6116
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 14:12:00,772 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:12:00.772670
+            Mevcut Fiyat: 2.4337
+            Tahmin Edilen Fiyat: 2.6117
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
