@@ -1,0 +1,277 @@
+2025-05-23 04:12:25,435 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:12:25,435 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:12:25,927 - trading - ERROR - Ýlk veri yükleme hatasý: 'NoneType' object has no attribute 'iterrows'
+2025-05-23 04:14:29,664 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:14:29,664 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:14:30,103 - trading - ERROR - Ýlk veri yükleme hatasý: 'NoneType' object has no attribute 'iterrows'
+2025-05-23 04:15:53,625 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:15:53,625 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:15:54,381 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 04:15:59,965 - trading - WARNING - Yeni veri alýnamadý
+2025-05-23 04:16:59,946 - trading - WARNING - Yeni veri alýnamadý
+2025-05-23 04:18:01,682 - trading - WARNING - Yeni veri alýnamadý
+2025-05-23 04:18:06,024 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 04:19:02,388 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:19:02,388 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:19:03,008 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 04:19:59,953 - trading - WARNING - Yeni veri alýnamadý
+2025-05-23 04:20:59,990 - trading - WARNING - Yeni veri alýnamadý
+2025-05-23 04:21:41,315 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 04:21:48,011 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:21:48,011 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:21:48,701 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 04:22:00,451 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:23:00,542 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:24:53,256 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:24:53,474 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 04:25:00,944 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:25:00,944 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:25:01,617 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 04:25:59,702 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:26:59,687 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:27:59,698 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:28:34,448 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 04:28:40,998 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:28:40,998 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:28:41,638 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 04:29:06,968 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:31:57,221 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:31:57,391 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 04:32:08,724 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:32:08,731 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:32:09,431 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 04:33:00,456 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:35:37,164 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:35:37,309 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 04:35:43,648 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:35:43,648 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:35:44,355 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 04:36:00,045 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:37:16,706 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:39:35,398 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:39:35,849 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 04:39:42,338 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:39:42,338 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:39:43,058 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 04:39:59,779 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:40:52,081 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 04:40:58,910 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:40:58,910 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:40:59,550 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 04:41:00,110 - trading - ERROR - Dakikalýk iþlem hatasý: 'dict' object has no attribute 'head'
+2025-05-23 04:41:14,284 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 04:41:21,216 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:41:21,216 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:41:21,744 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 04:41:59,691 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:42:43,002 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 04:42:49,602 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:42:49,602 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:42:50,229 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 04:42:59,882 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:43:59,946 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:44:21,252 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 04:44:27,953 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:44:27,953 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:44:28,523 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 04:45:00,404 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:48:32,957 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:48:33,157 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 04:48:39,647 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:48:39,648 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:48:40,271 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 04:48:59,988 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:49:45,031 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 04:49:51,964 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:49:51,964 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:49:52,572 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 04:50:00,191 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:51:00,250 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:51:25,633 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 04:51:32,060 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:51:32,060 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:51:32,710 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 04:52:00,526 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:53:00,574 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:53:49,285 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 04:53:56,228 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 04:53:56,232 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 04:53:56,806 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 04:54:00,395 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:55:00,549 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:56:00,675 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:56:59,655 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:57:59,763 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:58:59,807 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 04:59:59,770 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 05:00:59,819 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 05:01:03,011 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 05:01:10,209 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 05:01:10,209 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 05:01:10,854 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 05:01:59,800 - trading - ERROR - Dakikalýk iþlem hatasý: 'time'
+2025-05-23 05:02:59,871 - trading - ERROR - Dakikalýk iþlem hatasý: 'time'
+2025-05-23 05:03:08,681 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 05:03:15,392 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 05:03:15,392 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 05:03:16,002 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 05:03:59,868 - trading - ERROR - Dakikalýk iþlem hatasý: unit='s' not valid with non-numerical val='timestamp
+2025-05-23 02:02:59    1747965779
+Name: time, dtype: int64', at position 59
+2025-05-23 05:04:56,263 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 05:05:02,896 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 05:05:02,896 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 05:05:03,507 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 05:06:00,545 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 05:07:00,645 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 05:08:14,976 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 05:08:15,131 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 05:08:21,370 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 05:08:21,370 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 05:08:21,977 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 05:08:59,857 - trading - ERROR - Dakikalýk iþlem hatasý: unit='s' not valid with non-numerical val='0    1747966079
+Name: time, dtype: int64', at position 59
+2025-05-23 05:09:22,398 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 05:09:29,608 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 05:09:29,608 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 05:09:30,198 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 05:09:59,998 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 05:11:00,089 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 05:12:00,231 - trading - ERROR - Dakikalýk iþlem hatasý: unsupported format string passed to NoneType.__format__
+2025-05-23 05:12:35,811 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 05:12:41,956 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 05:12:41,956 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 05:12:42,515 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 05:13:00,206 - trading - ERROR - Dakikalýk iþlem hatasý: unit='s' not valid with non-numerical val='timestamp
+2025-05-23 02:11:59    1747966319
+Name: time, dtype: int64', at position 59
+2025-05-23 05:14:00,272 - trading - ERROR - Dakikalýk iþlem hatasý: unit='s' not valid with non-numerical val='timestamp
+2025-05-23 02:11:59    1747966319
+Name: time, dtype: int64', at position 58
+2025-05-23 05:15:00,263 - trading - ERROR - Dakikalýk iþlem hatasý: unit='s' not valid with non-numerical val='timestamp
+2025-05-23 02:11:59    1747966319
+Name: time, dtype: int64', at position 57
+2025-05-23 05:15:46,314 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 05:15:52,616 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 05:15:52,616 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 05:15:53,234 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 05:16:47,256 - trading - ERROR - Dakikalýk iþlem hatasý: unit='s' not valid with non-numerical val='timestamp
+2025-05-23 02:14:59    1747966499
+Name: time, dtype: int64', at position 59
+2025-05-23 05:16:47,435 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 05:16:54,255 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 05:16:54,255 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 05:16:54,889 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 05:17:00,547 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:18:00,562 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:19:00,657 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:19:30,408 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 05:19:36,968 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 05:19:36,968 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 05:19:37,600 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 05:20:00,420 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:21:00,517 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:22:00,466 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:23:00,592 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:23:07,481 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 05:23:14,716 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 05:23:14,716 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 05:23:15,282 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 05:24:43,793 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:24:44,174 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 05:24:53,016 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 05:24:53,017 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 05:24:53,555 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 05:25:00,163 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:26:09,514 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:27:00,475 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:28:00,541 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:28:47,518 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 05:28:53,857 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 05:28:53,857 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 05:28:54,557 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 05:29:00,193 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:30:00,220 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:31:00,188 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:32:00,200 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:32:23,208 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 05:32:30,201 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 05:32:30,201 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 05:32:30,797 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 05:32:59,621 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:33:59,796 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:34:59,945 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:36:00,179 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:37:00,221 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:38:00,286 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:38:06,816 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 05:38:13,457 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 05:38:13,457 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 05:38:14,061 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 05:39:00,087 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:40:00,014 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:41:00,109 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:42:00,062 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:43:00,185 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:44:00,101 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:45:00,103 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:46:00,046 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:47:00,186 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:50:14,288 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:51:00,214 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:52:00,119 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:52:14,625 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 05:52:21,130 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 05:52:21,130 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 05:52:21,683 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 05:52:59,681 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 05:53:59,922 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:02:13,531 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:03:00,553 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:03:33,281 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 06:03:39,781 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 06:03:39,781 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 06:03:40,411 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 06:04:00,132 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:05:00,156 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:06:00,208 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:07:00,285 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:07:19,165 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 06:07:25,635 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 06:07:25,635 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 06:07:26,245 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 06:08:00,046 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:09:00,072 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:10:00,018 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:11:02,664 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:12:00,570 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:13:01,019 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:14:00,192 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:15:00,193 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:16:00,233 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:17:00,200 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:18:00,121 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:19:00,127 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:20:00,047 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:21:00,055 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:21:59,960 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:22:59,949 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:23:59,831 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:24:59,833 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:25:59,743 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:26:59,860 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:27:59,731 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:29:00,667 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:30:00,551 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:31:00,484 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:32:00,585 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:33:00,566 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:34:00,527 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:35:00,523 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:36:00,583 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:37:00,598 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:38:00,567 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:39:00,537 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:40:00,527 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:41:00,457 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:42:00,575 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
