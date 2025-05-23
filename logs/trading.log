@@ -275,3 +275,62 @@ Name: time, dtype: int64', at position 59
 2025-05-23 06:40:00,527 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
 2025-05-23 06:41:00,457 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
 2025-05-23 06:42:00,575 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:42:59,710 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:43:59,782 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:44:59,972 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:45:51,675 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 06:45:58,407 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 06:45:58,407 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 06:45:59,053 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 06:45:59,633 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:46:23,559 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 06:46:30,109 - tradinsg - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 06:46:30,109 - tradinsg - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 06:46:30,681 - tradinsg - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 06:47:00,558 - tradinsg - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:48:00,475 - tradinsg - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:49:00,544 - tradinsg - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:50:00,524 - tradinsg - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:50:06,999 - tradinsg - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 06:50:35,678 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 06:50:35,678 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 06:50:36,313 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 06:51:00,051 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:57:30,103 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 06:57:30,105 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 06:57:30,820 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 06:58:00,473 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 06:59:00,399 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 07:00:00,433 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 07:00:32,529 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 07:00:39,812 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 07:00:39,812 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 07:00:40,506 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 07:01:00,180 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 07:02:00,140 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 07:03:00,226 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 07:03:20,225 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 07:03:26,635 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 07:03:26,635 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 07:03:27,217 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 07:03:59,887 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 07:04:59,769 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 07:07:50,929 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 07:07:57,446 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 07:07:57,446 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 07:07:58,087 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 07:07:59,693 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 07:09:00,660 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 07:09:36,148 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 07:09:42,920 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 07:09:42,920 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 07:09:43,575 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
+2025-05-23 07:10:00,255 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 07:11:00,208 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 07:12:00,210 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 07:13:00,316 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 07:14:00,351 - trading - ERROR - Dakikalýk iþlem hatasý: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-23 07:14:32,292 - trading - INFO - Kullanýcý tarafýndan durduruldu
+2025-05-23 07:14:39,051 - trading - INFO - Trading Bot baþlatýlýyor...
+2025-05-23 07:14:39,051 - trading - INFO - Ýlk veri seti yükleniyor...
+2025-05-23 07:14:40,125 - trading - INFO - Ýlk veri seti yüklendi: 60 dakika
