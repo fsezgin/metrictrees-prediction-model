@@ -12,7 +12,8 @@ class TradingParams:
             'attention_gru': 0.60,
             'lstm': 0.0,
             'cnn_lstm': 0.0,
-            'transformer_lstm': 0.0
+            'transformer_lstm': 0.0,
+            'stacked_lstm': 0.40
         },
         3: {  # Yüksek Volatilite
             'cnn_lstm': 0.55,

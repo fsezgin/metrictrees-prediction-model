@@ -860,3 +860,300 @@ Name: time, dtype: int64', at position 59
             Ýlk Sinyal: buy
             Final Sinyal: hold
             
+2025-05-23 14:13:00,380 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:13:00.380994
+            Mevcut Fiyat: 2.4337
+            Tahmin Edilen Fiyat: 2.6117
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 14:14:00,116 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:14:00.116494
+            Mevcut Fiyat: 2.4353
+            Tahmin Edilen Fiyat: 2.6116
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 14:15:00,779 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:15:00.779668
+            Mevcut Fiyat: 2.4358
+            Tahmin Edilen Fiyat: 2.6116
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 14:16:00,321 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:16:00.321178
+            Mevcut Fiyat: 2.4358
+            Tahmin Edilen Fiyat: 2.6116
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 14:16:59,938 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:16:59.938855
+            Mevcut Fiyat: 2.4376
+            Tahmin Edilen Fiyat: 2.6115
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 14:18:00,619 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:18:00.619178
+            Mevcut Fiyat: 2.4376
+            Tahmin Edilen Fiyat: 2.6115
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 14:19:00,234 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:19:00.234307
+            Mevcut Fiyat: 2.4376
+            Tahmin Edilen Fiyat: 2.6115
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 14:19:59,812 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:19:59.812850
+            Mevcut Fiyat: 2.4375
+            Tahmin Edilen Fiyat: 2.6117
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 14:21:00,421 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:21:00.421952
+            Mevcut Fiyat: 2.4346
+            Tahmin Edilen Fiyat: 2.6114
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 14:22:00,025 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:22:00.025151
+            Mevcut Fiyat: 2.4310
+            Tahmin Edilen Fiyat: 2.6117
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 14:23:01,056 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:23:01.056265
+            Mevcut Fiyat: 2.4255
+            Tahmin Edilen Fiyat: 2.6115
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:24:00,694 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:24:00.694264
+            Mevcut Fiyat: 2.4289
+            Tahmin Edilen Fiyat: 2.6117
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:25:00,331 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:25:00.331944
+            Mevcut Fiyat: 2.4289
+            Tahmin Edilen Fiyat: 2.6117
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:25:59,908 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:25:59.908546
+            Mevcut Fiyat: 2.4294
+            Tahmin Edilen Fiyat: 2.6118
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:27:00,495 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:27:00.495165
+            Mevcut Fiyat: 2.4279
+            Tahmin Edilen Fiyat: 2.6113
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:28:00,078 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:28:00.078715
+            Mevcut Fiyat: 2.4296
+            Tahmin Edilen Fiyat: 2.6111
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:29:00,716 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:29:00.716043
+            Mevcut Fiyat: 2.4303
+            Tahmin Edilen Fiyat: 2.6108
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:30:00,324 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:30:00.324224
+            Mevcut Fiyat: 2.4303
+            Tahmin Edilen Fiyat: 2.6108
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:30:59,888 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:30:59.888995
+            Mevcut Fiyat: 2.4321
+            Tahmin Edilen Fiyat: 2.6106
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:32:00,614 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:32:00.614770
+            Mevcut Fiyat: 2.4315
+            Tahmin Edilen Fiyat: 2.6104
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:33:00,203 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:33:00.203225
+            Mevcut Fiyat: 2.4313
+            Tahmin Edilen Fiyat: 2.6106
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:34:00,766 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:34:00.766597
+            Mevcut Fiyat: 2.4314
+            Tahmin Edilen Fiyat: 2.6110
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:35:00,374 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:35:00.374169
+            Mevcut Fiyat: 2.4314
+            Tahmin Edilen Fiyat: 2.6110
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:35:59,980 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:35:59.980895
+            Mevcut Fiyat: 2.4295
+            Tahmin Edilen Fiyat: 2.6112
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:37:00,581 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:37:00.581159
+            Mevcut Fiyat: 2.4282
+            Tahmin Edilen Fiyat: 2.6113
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:38:00,172 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:38:00.172743
+            Mevcut Fiyat: 2.4248
+            Tahmin Edilen Fiyat: 2.6113
+            Piyasa Durumu: 4
+            Ýlk Sinyal: buy
+            Final Sinyal: hold
+            
+2025-05-23 14:39:00,773 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:39:00.773718
+            Mevcut Fiyat: 2.4307
+            Tahmin Edilen Fiyat: 2.6109
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:40:00,383 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:40:00.383249
+            Mevcut Fiyat: 2.4307
+            Tahmin Edilen Fiyat: 2.6109
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:40:59,990 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:40:59.990296
+            Mevcut Fiyat: 2.4300
+            Tahmin Edilen Fiyat: 2.6102
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:42:00,578 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:42:00.578107
+            Mevcut Fiyat: 2.4310
+            Tahmin Edilen Fiyat: 2.6093
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:43:00,162 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:43:00.162936
+            Mevcut Fiyat: 2.4311
+            Tahmin Edilen Fiyat: 2.6095
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:44:00,739 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:44:00.739649
+            Mevcut Fiyat: 2.4239
+            Tahmin Edilen Fiyat: 2.6101
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
+2025-05-23 14:45:00,331 - trading - INFO - 
+            === TAHMIN SONUÇLARI ===
+            Zaman: 2025-05-23 14:45:00.331382
+            Mevcut Fiyat: 2.4239
+            Tahmin Edilen Fiyat: 2.6101
+            Piyasa Durumu: 4
+            Ýlk Sinyal: hold
+            Final Sinyal: hold
+            
