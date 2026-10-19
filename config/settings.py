@@ -1,6 +1,6 @@
 class Config:
     # API Ayarları
-    API_BASE_URL = "https://api.metrictrees.yusuf-erdem.com/api/v1"
+    API_BASE_URL = "YOUR_API_BASE_URL"
     TOKEN_ID = 2 # XRP
     INTERVAL = "1m"
 
@@ -11,16 +11,16 @@ class Config:
 
     # Model Dosya Yolları
     MODEL_PATHS = {
-        'lstm': r'C:\Users\lunaf\Desktop\Projects\MetricTrees-AI\MetricTrees-Prediction-Model\models\saved_models\LSTM_best_model.h5',
-        'cnn_lstm': r'C:\Users\lunaf\Desktop\Projects\MetricTrees-AI\MetricTrees-Prediction-Model\models\saved_models\CNN-LSTM_best_model.h5',
-        'transformer_lstm': r'C:\Users\lunaf\Desktop\Projects\MetricTrees-AI\MetricTrees-Prediction-Model\models\saved_models\Transformer-LSTM_best_model.h5',
-        'attention_gru': r'C:\Users\lunaf\Desktop\Projects\MetricTrees-AI\MetricTrees-Prediction-Model\models\saved_models\Attention-GRU_best_model.h5',
-        'stacked_lstm': r'C:\Users\lunaf\Desktop\Projects\MetricTrees-AI\MetricTrees-Prediction-Model\models\saved_models\Stacked-LSTM_best_model.h5'
+        'lstm': r'.\MetricTrees-AI\MetricTrees-Prediction-Model\models\saved_models\LSTM_best_model.h5',
+        'cnn_lstm': r'.\MetricTrees-AI\MetricTrees-Prediction-Model\models\saved_models\CNN-LSTM_best_model.h5',
+        'transformer_lstm': r'.\MetricTrees-AI\MetricTrees-Prediction-Model\models\saved_models\Transformer-LSTM_best_model.h5',
+        'attention_gru': r'.\MetricTrees-AI\MetricTrees-Prediction-Model\models\saved_models\Attention-GRU_best_model.h5',
+        'stacked_lstm': r'.\MetricTrees-AI\MetricTrees-Prediction-Model\models\saved_models\Stacked-LSTM_best_model.h5'
     }
 
     # Scaler Dosya Yolları
-    SCALER_X_PATH = r'C:\Users\lunaf\Desktop\Projects\MetricTrees-AI\MetricTrees-Prediction-Model\data\scalers\scaler_X.pkl'
-    SCALER_Y_PATH = r'C:\Users\lunaf\Desktop\Projects\MetricTrees-AI\MetricTrees-Prediction-Model\data\scalers\scaler_y.pkl'
+    SCALER_X_PATH = r'.\MetricTrees-AI\MetricTrees-Prediction-Model\data\scalers\scaler_X.pkl'
+    SCALER_Y_PATH = r'.\MetricTrees-AI\MetricTrees-Prediction-Model\data\scalers\scaler_y.pkl'
 
     # Feature Listesi (kullandığınız feature'lar)
     FEATURES_LIST = [
